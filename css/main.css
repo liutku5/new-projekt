@@ -10,21 +10,40 @@
     display: inline-block;
     width: 50%;
     background-color: antiquewhite;
-    
+
 }
 
 #leftP {
     color: blueviolet;
     font-weight: 900;
 }
-#rightP{
-    color: red; 
+
+#rightP {
+    color: red;
     font-style: italic;
 }
-p{
+
+p {
     font-size: 12px;
 }
-#sidesContainer{
+
+#sidesContainer {
     width: 100%;
     font-size: 0;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+spam1:hower+div1 {
+    display: block;
+}
+
+div1 {
+    display: none;
 }
