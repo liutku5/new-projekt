@@ -1,0 +1,35 @@
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.width {
+    width: 50%;
+}
+
+.p {
+    text-align: left;
+}
+
+.firstSpan {
+    color: rgb(119, 162, 241)
+}
+
+.firstSpan .secondSpan {
+    visibility: hidden;
+    width: 550px;
+    background-color: gray;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+}
+
+.firstSpan:hover .secondSpan {
+    visibility: visible;
+}
