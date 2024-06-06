@@ -33,3 +33,27 @@
 .firstSpan:hover .secondSpan {
     visibility: visible;
 }
+
+.sides {
+    display: inline-block;
+    width: 50%;
+
+
+}
+
+.button {
+    background-color: #757c98;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2 {
+    padding: 12px 28px;
+}
