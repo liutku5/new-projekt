@@ -57,3 +57,17 @@
 .button2 {
     padding: 12px 28px;
 }
+#center{
+    text-align: center; 
+    margin-top: -200px;
+    margin-left: 170px;
+}
+#container{
+    display: inline-block;
+}
+#left{
+
+}
+#rigth{
+
+}
